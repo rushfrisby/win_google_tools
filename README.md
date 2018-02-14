@@ -2,6 +2,8 @@
 
 I had two problems using Google Suite that I solved by creating these tools. The first was quickly creating a Google Doc. The second was quickly getting into a Google Hangout. The shortcuts I outline how to create below I put into my Windows Application Bar which makes it super easy to do these things.
 
+[Download version 1.0 here](releases/latest)
+
 ## Quickly Create a Google Doc
 
 Create a shortcut to the app and add these parameters to the target...
