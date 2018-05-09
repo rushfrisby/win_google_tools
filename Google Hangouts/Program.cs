@@ -35,7 +35,7 @@ namespace Google_Hangouts
             {
                 if (!string.IsNullOrWhiteSpace(email))
                 {
-                    Process.Start($"https://www.google.com/accounts/AccountChooser?Email={email}&continue=https://hangouts.google.com/hangouts/_/lsq.com/{name}");
+                    Process.Start($"https://www.google.com/accounts/AccountChooser?Email={email}&continue=https://hangouts.google.com/hangouts/_/{name}");
                 }
                 else
                 {
