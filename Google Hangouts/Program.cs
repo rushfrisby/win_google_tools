@@ -39,7 +39,7 @@ namespace Google_Hangouts
                 }
                 else
                 {
-                    Process.Start($"https://hangouts.google.com/hangouts/_/lsq.com/{name}");
+                    Process.Start($"https://hangouts.google.com/hangouts/_/{name}");
                 }
                 
             }
